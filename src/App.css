@@ -8,7 +8,8 @@
   padding: 10px;
   background-color:rgb(240, 156, 47) !important;
   color: red !important;
-  cursor: pointer; z-index: 999 !important;
+  cursor: pointer; z-index: 999 !important; 
+  cursor: pointer;
 
 }
 
