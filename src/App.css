@@ -1,0 +1,20 @@
+/* App.css or your custom CSS file */
+#carousel-arrow {
+  
+  position: absolute; font-size: 17px;
+  
+  width:100px;
+  Height:100px;
+  padding: 10px;
+  background-color:rgb(240, 156, 47) !important;
+  color: red !important;
+  cursor: pointer; z-index: 999 !important;
+
+}
+
+#carousel-arrow:hover {
+  
+  background-color: rgba(0, 0, 0, 0.7);
+}
+.widimg{width: 500px;height: 500px;}
+
